@@ -1,4 +1,3 @@
-## About Me
-- Doing things I find interesting
+Doing things I find interesting
 
-- LinkedIn: [https://www.linkedin.com/in/daniel-barberio/](https://www.linkedin.com/in/daniel-barberio/)
+LinkedIn: [https://www.linkedin.com/in/daniel-barberio/](https://www.linkedin.com/in/daniel-barberio/)
